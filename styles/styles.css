@@ -13,7 +13,7 @@ body{
     margin: 0;
 }
 header{
-    background-image: url(/imgs/bg.jpeg);
+    background-image: url("/imgs/bg.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
